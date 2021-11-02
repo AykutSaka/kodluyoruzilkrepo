@@ -22,5 +22,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-![Proje Resmi](/path/to/Proje Resmi.JPG "Tıkla")
+# Proje Resmi
+![Proje Resmi](https://github.com/AykutSaka/kodluyoruzilkrepo/blob/979e866910d9c015576d3d9b2e9c7421bd20278f/Proje%20Resmi.JPG)
